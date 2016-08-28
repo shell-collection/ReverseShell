@@ -4,3 +4,9 @@ D:\Dropbox\Developement\Reverse Shell - NoOp\csharp\ReverseRat\ReverseRat_Server
 D:\Dropbox\Developement\Reverse Shell - NoOp\csharp\ReverseRat\ReverseRat_Server_Console\ReverseRat_Server_Console\obj\Debug\ReverseRat_Server_Console.exe
 D:\Dropbox\Developement\Reverse Shell - NoOp\csharp\ReverseRat\ReverseRat_Server_Console\ReverseRat_Server_Console\obj\Debug\ReverseRat_Server_Console.pdb
 D:\Dropbox\Developement\Reverse Shell - NoOp\csharp\ReverseRat\ReverseRat_Server_Console\ReverseRat_Server_Console\obj\Debug\ReverseRat_Server_Console.csprojResolveAssemblyReference.cache
+C:\Users\jm33m\Source\Repos\ReverseShell\ReverseRat_Server_Console\ReverseRat_Server_Console\bin\Debug\ReverseRat_Server_Console.exe.config
+C:\Users\jm33m\Source\Repos\ReverseShell\ReverseRat_Server_Console\ReverseRat_Server_Console\obj\Debug\ReverseRat_Server_Console.exe
+C:\Users\jm33m\Source\Repos\ReverseShell\ReverseRat_Server_Console\ReverseRat_Server_Console\obj\Debug\ReverseRat_Server_Console.pdb
+C:\Users\jm33m\Source\Repos\ReverseShell\ReverseRat_Server_Console\ReverseRat_Server_Console\bin\Debug\ReverseRat_Server_Console.exe
+C:\Users\jm33m\Source\Repos\ReverseShell\ReverseRat_Server_Console\ReverseRat_Server_Console\bin\Debug\ReverseRat_Server_Console.pdb
+C:\Users\jm33m\Source\Repos\ReverseShell\ReverseRat_Server_Console\ReverseRat_Server_Console\obj\Debug\ReverseRat_Server_Console.csprojResolveAssemblyReference.cache

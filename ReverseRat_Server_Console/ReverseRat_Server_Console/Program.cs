@@ -1,16 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
-using System.Net;
 using System.Net.Sockets;
 using System.Runtime.InteropServices;
 using System.IO;            //for Streams
 using System.Diagnostics;   //for Process
-using System.Linq;
-using System.Text;
-using System.Data;
 
 //Process injection take from http://www.ownedcore.com/forums/world-of-warcraft/world-of-warcraft-bots-programs/wow-memory-editing/422280-c-asm-injection-createremotethread.html
 //Reverse Connection server by Paul Chin

@@ -16,3 +16,5 @@ C:\Users\epena_m\Documents\Personal Documents\Dropbox\Developement\Reverse Shell
 C:\Users\epena_m\Documents\Personal Documents\Dropbox\Developement\Reverse Shell\csharp\ReverseRatClient\ReverseRatClient\obj\Debug\ReverseRatClient.csproj.GenerateResource.Cache
 D:\Dropbox\Developement\Reverse Shell - NoOp\csharp\ReverseRatClient\ReverseRatClient\obj\Debug\ReverseRatClient.exe
 D:\Dropbox\Developement\Reverse Shell - NoOp\csharp\ReverseRatClient\ReverseRatClient\obj\Debug\ReverseRatClient.pdb
+C:\Users\jm33m\Source\Repos\ReverseShell\ReverseRatClient\ReverseRatClient\obj\Debug\ReverseRatClient.exe
+C:\Users\jm33m\Source\Repos\ReverseShell\ReverseRatClient\ReverseRatClient\obj\Debug\ReverseRatClient.pdb
